@@ -1,1 +1,0 @@
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/22e9f5c8-4c51-4512-ae33-4b5ad3ed420d)
