@@ -1,12 +1,17 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router';
+import App from '@/App.vue'; 
 
 const routes = [
-  // Tambahkan rute di sini jika diperlukan
-]
+  {
+    path: '/',
+    name: 'App',
+    component: App, 
+  },
+];
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHashHistory(), 
   routes,
-})
+});
 
 export default router;

@@ -13,13 +13,12 @@ export default {
 </script>
 
 <style>
-/* Gunakan font Poppins */
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
   background-color: black;
-  color: #d18604; /* Menggunakan warna emas */
+  color: #d18604; 
 }
 
 .container {
@@ -32,26 +31,25 @@ body {
 }
 
 .logo {
-  width: 100px; /* Atur ukuran logo sesuai kebutuhan */
+  width: 80px; 
 }
 
 .title {
   margin: 20px 0;
-  font-size: 48px; /* Ukuran besar untuk teks */
-  font-weight: 700; /* Gunakan font tebal */
+  font-size: 48px; 
+  font-weight: 700; 
 }
 
 .join-button {
   padding: 10px 20px;
-  background-color: #d18604; /* Warna tombol */
+  background-color: #d18604;
   color: black;
   text-decoration: none;
   border-radius: 5px;
-  font-weight: 700; /* Font tebal untuk tombol */
+  font-weight: 700; 
   transition: background-color 0.3s;
 }
 
 .join-button:hover {
-  background-color: #8d5a00; /* Warna saat hover */
-}
+  background-color: #8d5a00; 
 </style>
